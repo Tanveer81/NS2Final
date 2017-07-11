@@ -1,0 +1,52 @@
+total 9100
+-rw-rw-r-- 1 partha partha      80 মে     8 15:39 802_11.out
+-rw-rw-r-- 1 partha partha 1759962 মে     8 15:39 802_11_random.nam
+-rw-rw-r-- 1 partha partha    3387 মে     8 14:37 802_11_random.tcl
+-rw-rw-r-- 1 partha partha 6803560 মে     8 15:39 802_11_random.tr
+-rw-rw-r-- 1 partha partha      41 জুল    10 15:55 a.txt
+-rw-rw-r-- 1 partha partha  175485 মে     8 15:39 coveragefinal.ps
+-rwxrwxr-x 1 partha partha    1446 মে     8 11:05 coverage.sh
+-rw-rw-r-- 1 partha partha  175300 মে     8 15:39 flowfinal.ps
+-rwxrwxr-x 1 partha partha    1400 মে     8 11:05 flow.sh
+-rwxrwxr-x 1 partha partha      42 মে     8 10:34 master.sh
+-rw-rw-r-- 1 partha partha  174571 মে     8 15:38 nodefinal.ps
+-rwxrwxr-x 1 partha partha    1402 মে     8 11:05 node.sh
+-rw-rw-r-- 1 partha partha       0 জুল    10 15:59 out.txt
+drwxrwxr-x 2 partha partha    4096 মে     8 15:39 pdf
+-rw-rw-r-- 1 partha partha  174758 মে     8 15:39 ppsfinal.ps
+-rwxrwxr-x 1 partha partha    1384 মে     8 11:05 pps.sh
+-rwxrwx--- 1 partha partha    5121 মে     8 13:48 rule_wireless_udp.awk
+802_11.out
+802_11_random.nam
+802_11_random.tcl
+802_11_random.tr
+a.txt
+coveragefinal.ps
+coverage.sh
+flowfinal.ps
+flow.sh
+master.sh
+nodefinal.ps
+node.sh
+out.txt
+pdf
+ppsfinal.ps
+pps.sh
+rule_wireless_udp.awk
+802_11.out
+802_11_random.nam
+802_11_random.tcl
+802_11_random.tr
+a.txt
+coveragefinal.ps
+coverage.sh
+flowfinal.ps
+flow.sh
+master.sh
+nodefinal.ps
+node.sh
+out.txt
+pdf
+ppsfinal.ps
+pps.sh
+rule_wireless_udp.awk

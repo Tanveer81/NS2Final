@@ -1,0 +1,9 @@
+YUnitText: Throughput
+XUnitText: Num of Flows
+""
+0 0.0
+10 545742.77
+20 665460.84
+30 637901.73
+40 590513.75
+50 642203.54

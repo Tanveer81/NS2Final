@@ -1,0 +1,9 @@
+YUnitText: Throughput
+XUnitText: Num of Nodes
+""
+0 0.0
+20 3355.85
+40 1362.05
+60 329.66
+80 1609.16
+100 1056.77
